@@ -1,0 +1,7 @@
+**build/
+**devel/
+**.catkin_workspace
+**install
+**log
+**api/
+**__pycache__/
